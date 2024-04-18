@@ -1,0 +1,10 @@
+React Advantages:
+- Small library to learn
+- Capable to handle lot of states that generates user interface from state
+- Not super-opinionated about data, where you render. I have a state and I want to render interface. React fits well there
+
+-React.createElement is not JSX
+
+
+
+
